@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/savagedarkxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="savagedarkxd" height="30" width="40" /></a>
 <a href="https://instagram.com/__7mxxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="__7mxxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/savagedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="savagedark" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC5u_MoEawke-KQ5Tl9v7WYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="savagedark" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
